@@ -4,4 +4,4 @@
 
 ### ✏️ 회의록
 
-<a href="https://github.com/2024-ITEC0401/.github/wiki/%EC%A3%BC%EC%A0%9C%EC%84%A0%EC%A0%95">2024.09.05 주제 선정 회의</a>
+<a href="https://github.com/2024-ITEC0401/.github/wiki/2024.09.05-(%EB%AA%A9)-%EC%A3%BC%EC%A0%9C%EC%84%A0%EC%A0%95)">2024.09.05 주제 선정 회의</a>
