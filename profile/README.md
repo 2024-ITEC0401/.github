@@ -8,7 +8,7 @@
 [2024.09.06 (금) 멘토님과 첫 회의](https://github.com/2024-ITEC0401/.github/wiki/2024.09.06-(%EA%B8%88)-%EB%A9%98%ED%86%A0%EB%8B%98%EA%B3%BC-%EC%B2%AB-%ED%9A%8C%EC%9D%98) <br/>
 [2024.09.07 (토) 계획 발표 준비 회의](https://github.com/2024-ITEC0401/.github/wiki/2024.09.07-(%ED%86%A0)-%EA%B3%84%ED%9A%8D-%EB%B0%9C%ED%91%9C-%EC%A4%80%EB%B9%84-%ED%9A%8C%EC%9D%98) <br/>
 [2024.09.13 (금) 멘토님과의 두 번째 회의](https://github.com/2024-ITEC0401/.github/wiki/2024.09.13-(%EA%B8%88)-%EB%A9%98%ED%86%A0%EB%8B%98%EA%B3%BC-%EB%91%90%EB%B2%88%EC%A7%B8-%ED%9A%8C%EC%9D%98) <br/>
-[2024.09.18 (수) 와이어프레임 및 세부 요구사항 논의](https://github.com/2024-ITEC0401/.github/wiki/2024.09.18-(%EC%88%98)-%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84-%EB%B0%8F-%EC%84%B8%EB%B6%80-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EB%85%BC%EC%9D%98)
+[2024.09.18 (수) UseCase, WireFrame, ERD 초안 및 세부 요구사항 논의](https://github.com/2024-ITEC0401/.github/wiki/2024.09.18-(%EC%88%98)-%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84-%EB%B0%8F-%EC%84%B8%EB%B6%80-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EB%85%BC%EC%9D%98)
 
 ### 🔗 설계 및 기타 자료 링크
 
