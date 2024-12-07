@@ -15,6 +15,10 @@
 [2024.10.04 (금) 멘토님과 네번째 회의](https://github.com/2024-ITEC0401/.github/wiki/2024.10.04-(%EA%B8%88)-%EB%A9%98%ED%86%A0%EB%8B%98%EA%B3%BC-%EB%84%A4%EB%B2%88%EC%A7%B8-%ED%9A%8C%EC%9D%98) <br/>
 [2024.10.04 (금) API 명세서 초안 회의](https://github.com/2024-ITEC0401/.github/wiki/2024.10.04-(%EA%B8%88)-API-%EB%AA%85%EC%84%B8%EC%84%9C-%EC%B4%88%EC%95%88)<br/>
 [2024.10.20 (일) 멘토님과 여섯 번째 회의](https://github.com/2024-ITEC0401/.github/wiki/2024.10.20-(%1D%EC%9D%BC)-%EB%A9%98%ED%86%A0%EB%8B%98%EA%B3%BC-%EC%97%AC%EC%84%AF-%EB%B2%88%EC%A7%B8-%ED%9A%8C%EC%9D%98)<br/>
+[2024.11.03 (일) 멘토님과 일곱번째 회의](https://github.com/2024-ITEC0401/.github/wiki/2024.11.03-(%EC%9D%BC)-%EB%A9%98%ED%86%A0%EB%8B%98%EA%B3%BC-%EC%9D%BC%EA%B3%B1%EB%B2%88%EC%A7%B8-%ED%9A%8C%EC%9D%98)<br/>
+[2024.11.05(화) ~ 2024.11.17(일) 개발진행상황 & 회의록](https://github.com/2024-ITEC0401/.github/wiki/2024.11.05(%ED%99%94)-~-2024.11.17(%EC%9D%BC)-%EA%B0%9C%EB%B0%9C%EC%A7%84%ED%96%89%EC%83%81%ED%99%A9-&-%ED%9A%8C%EC%9D%98%EB%A1%9D)<br/>
+[2024.11.08 (금) 멘토님과 여덟번째 회의](https://github.com/2024-ITEC0401/.github/wiki/2024.11.08-(%EA%B8%88)-%EB%A9%98%ED%86%A0%EB%8B%98%EA%B3%BC-%EC%97%AC%EB%8D%9F%EB%B2%88%EC%A7%B8-%ED%9A%8C%EC%9D%98)<br/>
+[2024.11.18(월) ~ 2024.11.28(목) 개발진행상황 & 회의록](https://github.com/2024-ITEC0401/.github/wiki/2024.11.18(%EC%9B%94)-~-2024.11.28(%EB%AA%A9)-%EA%B0%9C%EB%B0%9C%EC%A7%84%ED%96%89%EC%83%81%ED%99%A9-&-%ED%9A%8C%EC%9D%98%EB%A1%9D)<br/>
 
 ### 🔗 설계 및 기타 자료 링크
 
